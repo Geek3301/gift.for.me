@@ -1,0 +1,16 @@
+2019-08-15T18:34:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в Z:\home\localhost\www\wp-includes\class-wp-image-editor.php на строке 402
+
+2019-08-15T19:34:51+00:00 CRITICAL syntax error, unexpected '[' в Z:\home\localhost\www\wp-content\themes\customify\inc\customizer\configs\page-header.php на строке 164
+
+2019-08-15T19:35:01+00:00 CRITICAL syntax error, unexpected '[' в Z:\home\localhost\www\wp-content\themes\customify\inc\customizer\configs\page-header.php на строке 164
+
+2019-08-15T19:35:18+00:00 CRITICAL syntax error, unexpected '[' в Z:\home\localhost\www\wp-content\themes\customify\inc\customizer\configs\page-header.php на строке 164
+
+2019-08-15T19:35:20+00:00 CRITICAL syntax error, unexpected '[' в Z:\home\localhost\www\wp-content\themes\customify\inc\customizer\configs\page-header.php на строке 164
+
+2019-08-15T20:32:46+00:00 CRITICAL syntax error, unexpected '<' в Z:\home\localhost\www\wp-content\plugins\woocommerce\templates\content-product.php на строке 3
+
+2019-08-15T20:33:39+00:00 CRITICAL syntax error, unexpected '<' в Z:\home\localhost\www\wp-content\plugins\woocommerce\templates\content-product.php на строке 4
+
+2019-08-15T20:34:13+00:00 CRITICAL Call to a member function is_sold_individually() on a non-object в Z:\home\localhost\www\wp-content\plugins\woocommerce\templates\content-product.php на строке 5
+

@@ -1,0 +1,50 @@
+2024-09-05T21:06:25+00:00 CRITICAL Cannot use object of type WP_Error as array in D:\home\test1.ru\www\wp-content\plugins\woocommerce\includes\admin\views\html-admin-page-status-report.php on line 13
+
+2024-09-05T21:12:26+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:12:31+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:12:32+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:12:44+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:12:50+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:12:51+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:15:16+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:15:22+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:15:22+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:21:27+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\sitesauce\sitesauce.php on line 29
+
+2024-09-05T21:21:33+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\sitesauce\sitesauce.php on line 29
+
+2024-09-05T21:21:33+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\sitesauce\sitesauce.php on line 29
+
+2024-09-05T21:41:52+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\src\class-ss-plugin.php on line 294
+
+2024-09-05T21:42:38+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\src\class-ss-plugin.php on line 294
+
+2024-09-05T21:43:00+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\src\class-ss-plugin.php on line 294
+
+2024-09-05T21:44:59+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:45:05+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:45:05+00:00 CRITICAL syntax error, unexpected '[' in D:\home\test1.ru\www\wp-content\plugins\simply-static\simply-static.php on line 60
+
+2024-09-05T21:53:48+00:00 CRITICAL syntax error, unexpected ':', expecting '{' in D:\home\test1.ru\www\wp-content\plugins\wp2static-7.2\wp2static.php on line 65
+
+2024-09-05T21:53:54+00:00 CRITICAL syntax error, unexpected ':', expecting '{' in D:\home\test1.ru\www\wp-content\plugins\wp2static-7.2\wp2static.php on line 65
+
+2024-09-05T21:53:54+00:00 CRITICAL syntax error, unexpected ':', expecting '{' in D:\home\test1.ru\www\wp-content\plugins\wp2static-7.2\wp2static.php on line 65
+
+2024-09-05T21:56:53+00:00 CRITICAL syntax error, unexpected ':', expecting '{' in D:\home\test1.ru\www\wp-content\plugins\wp2static-7.1.5\wp2static.php on line 65
+
+2024-09-05T21:56:59+00:00 CRITICAL syntax error, unexpected ':', expecting '{' in D:\home\test1.ru\www\wp-content\plugins\wp2static-7.1.5\wp2static.php on line 65
+
+2024-09-05T21:56:59+00:00 CRITICAL syntax error, unexpected ':', expecting '{' in D:\home\test1.ru\www\wp-content\plugins\wp2static-7.1.5\wp2static.php on line 65
+
