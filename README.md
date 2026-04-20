@@ -20,7 +20,7 @@ This repository contains the source code for a fully functional e-commerce websi
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/geek3301/repository-name.git
 
 2. Set up a local web server with PHP and MySQL (e.g., XAMPP, LocalWP, MAMP, or any other hosting environment)
 
